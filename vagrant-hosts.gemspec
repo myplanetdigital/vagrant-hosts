@@ -16,7 +16,6 @@ Gem::Specification.new do |s|
   # s.rubyforge_project         = "vagrant-hosts"
 
   s.add_dependency "vagrant", ">= 0.8.2"
-  s.add_dependency "ruby-augeas", "~> 0.4.1"
   s.add_development_dependency "rspec", "~> 2.6.0"
   s.add_development_dependency "bundler", ">= 1.0.0"
 
